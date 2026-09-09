@@ -1,0 +1,3 @@
+# Rendered notebook exports are generated artifacts, not source code.
+# Excluded from the language statistics and collapsed in diffs.
+notebooks_html/** linguist-generated=true
