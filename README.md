@@ -40,7 +40,10 @@ two sequences diverge:
 `fig4_subratings.png` is still generated but is not used in the thesis; the heatmap replaced
 it as Figure 5.
 
-The tables come from these artifacts, all written to `output/`:
+The `output/` directory is not committed, so these image files are not in the repository.
+Every figure appears inline in the rendered notebooks under `notebooks_html/`.
+
+The tables come from these artifacts, all written to `output/` (likewise not committed):
 
 | Thesis | Artifact | Written by |
 |---|---|---|
