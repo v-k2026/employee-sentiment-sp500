@@ -9,6 +9,34 @@ table and figure in the thesis, plus the memos documenting the three data correc
 disclosed in Section 3.6. The development history of the pipeline is listed in
 [`COMMIT_LOG.md`](COMMIT_LOG.md); the original working repository is available from the author.
 
+## Read it in the browser
+
+Every notebook is rendered as HTML and served through GitHub Pages, so any number, table or
+figure in the thesis can be checked against the code that produced it without installing
+anything.
+
+**Analysis** —
+[08 descriptives](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/08_descriptive_stats.html) ·
+[09 portfolio sorts (H1)](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/09_portfolio_sorts.html) ·
+[10 alpha regression (H2a)](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/10_alpha_regression.html) ·
+[11 operating performance (H2b)](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/11_operating_performance.html) ·
+[12 robustness](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/12_robustness.html) ·
+[13 figures](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/13_thesis_figures.html) ·
+[14 factor rotation 2021–22](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/14_factor_rotation_2021_22.html) ·
+[15 structural break](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/15_structural_break_test.html)
+
+**Data construction** —
+[00 environment](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/00_environment_check.html) ·
+[01 S&P 500 universe](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/01_sp500_universe.html) ·
+[02 identifiers](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/02_universe_to_gvkey.html) ·
+[03 sentiment](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/03_sentiment_panel.html) ·
+[04 returns](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/04_returns_panel.html) ·
+[05 fundamentals](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/05_fundamentals_panel.html) ·
+[06 factors](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/06_factors.html) ·
+[07 merged panels](https://v-k2026.github.io/employee-sentiment-sp500/notebooks_html/07_merged_panels.html)
+
+The thesis itself is [`thesis.pdf`](thesis.pdf).
+
 ## What is here
 
 | Path | Contents |
